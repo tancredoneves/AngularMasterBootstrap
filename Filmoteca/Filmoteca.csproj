@@ -180,8 +180,8 @@
   <ItemGroup>
     <Content Include="AngularApp\js\detalhesController.js" />
     <Content Include="AngularApp\js\filmeService.js" />
-    <Content Include="AngularApp\js\filmoteca.js" />
     <Content Include="AngularApp\js\listaController.js" />
+    <Content Include="AngularApp\js\Module.js" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
